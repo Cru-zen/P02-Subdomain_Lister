@@ -6,5 +6,5 @@ Sublister is a tool designed in python. It helps pen-testers in collecting and g
 ## Install
 
 ```
-https://github.com/ANANT555/P02-Subdomain_Lister.git
+git clone https://github.com/ANANT555/P02-Subdomain_Lister.git
 ```
